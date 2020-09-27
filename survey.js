@@ -1,0 +1,451 @@
+
+
+//one
+function itemSelect(){
+    document.querySelector(".q1Detail").style.display="none";
+    document.querySelector(".q2Detail").style.display="block";
+    document.querySelector(".q3Detail").style.display="none";
+    document.querySelector(".q4Detail").style.display="none";
+    document.querySelector(".q5Detail").style.display="none";
+    document.querySelector(".q6Detail").style.display="none";
+    document.querySelector(".q7Detail").style.display="none";
+    document.querySelector(".q8Detail").style.display="none";
+    document.querySelector(".q9Detail").style.display="none";
+    document.querySelector(".q10Detail").style.display="none";
+    document.querySelector(".q11Detail").style.display="none";
+    document.querySelector(".q12Detail").style.display="none";
+    document.querySelector(".q13Detail").style.display="none";
+    document.querySelector(".q14Detail").style.display="none";
+    document.querySelector(".whyDetail").style.display="none";
+    document.querySelector(".text1Detail").style.display="none";
+    document.querySelector(".text2Detail").style.display="none";
+    document.querySelector(".text3Detail").style.display="none";
+    document.querySelector(".text4Detail").style.display="none";
+    document.querySelector(".text5Detail").style.display="none";
+}
+
+//two
+function itemSelect2(){
+    document.querySelector(".q1Detail").style.display="none";
+    document.querySelector(".q2Detail").style.display="none";
+    document.querySelector(".q3Detail").style.display="block";
+    document.querySelector(".q4Detail").style.display="none";
+    document.querySelector(".q5Detail").style.display="none";
+    document.querySelector(".q6Detail").style.display="none";
+    document.querySelector(".q7Detail").style.display="none";
+    document.querySelector(".q8Detail").style.display="none";
+    document.querySelector(".q9Detail").style.display="none";
+    document.querySelector(".q10Detail").style.display="none";
+    document.querySelector(".q11Detail").style.display="none";
+    document.querySelector(".q12Detail").style.display="none";
+    document.querySelector(".q13Detail").style.display="none";
+    document.querySelector(".q14Detail").style.display="none";
+    document.querySelector(".whyDetail").style.display="none";
+    document.querySelector(".text1Detail").style.display="none";
+    document.querySelector(".text2Detail").style.display="none";
+    document.querySelector(".text3Detail").style.display="none";
+    document.querySelector(".text4Detail").style.display="none";
+    document.querySelector(".text5Detail").style.display="none";
+}
+
+//three
+function itemSelect3(){
+    document.querySelector(".q1Detail").style.display="none";
+    document.querySelector(".q2Detail").style.display="none";
+    document.querySelector(".q3Detail").style.display="none";
+    document.querySelector(".q4Detail").style.display="block";
+    document.querySelector(".q5Detail").style.display="none";
+    document.querySelector(".q6Detail").style.display="none";
+    document.querySelector(".q7Detail").style.display="none";
+    document.querySelector(".q8Detail").style.display="none";
+    document.querySelector(".q9Detail").style.display="none";
+    document.querySelector(".q10Detail").style.display="none";
+    document.querySelector(".q11Detail").style.display="none";
+    document.querySelector(".q12Detail").style.display="none";
+    document.querySelector(".q13Detail").style.display="none";
+    document.querySelector(".q14Detail").style.display="none";
+    document.querySelector(".whyDetail").style.display="none";
+    document.querySelector(".text1Detail").style.display="none";
+    document.querySelector(".text2Detail").style.display="none";
+    document.querySelector(".text3Detail").style.display="none";
+    document.querySelector(".text4Detail").style.display="none";
+    document.querySelector(".text5Detail").style.display="none";
+}
+//four
+function itemSelect4(){
+    document.querySelector(".q1Detail").style.display="none";
+    document.querySelector(".q2Detail").style.display="none";
+    document.querySelector(".q3Detail").style.display="none";
+    document.querySelector(".q4Detail").style.display="none";
+    document.querySelector(".q5Detail").style.display="block";
+    document.querySelector(".q6Detail").style.display="none";
+    document.querySelector(".q7Detail").style.display="none";
+    document.querySelector(".q8Detail").style.display="none";
+    document.querySelector(".q9Detail").style.display="none";
+    document.querySelector(".q10Detail").style.display="none";
+    document.querySelector(".q11Detail").style.display="none";
+    document.querySelector(".q12Detail").style.display="none";
+    document.querySelector(".q13Detail").style.display="none";
+    document.querySelector(".q14Detail").style.display="none";
+    document.querySelector(".whyDetail").style.display="none";
+    document.querySelector(".text1Detail").style.display="none";
+    document.querySelector(".text2Detail").style.display="none";
+    document.querySelector(".text3Detail").style.display="none";
+    document.querySelector(".text4Detail").style.display="none";
+    document.querySelector(".text5Detail").style.display="none";
+}
+//five
+function itemSelect5(){
+    document.querySelector(".q1Detail").style.display="none";
+    document.querySelector(".q2Detail").style.display="none";
+    document.querySelector(".q3Detail").style.display="none";
+    document.querySelector(".q4Detail").style.display="none";
+    document.querySelector(".q5Detail").style.display="none";
+    document.querySelector(".q6Detail").style.display="block";
+    document.querySelector(".q7Detail").style.display="none";
+    document.querySelector(".q8Detail").style.display="none";
+    document.querySelector(".q9Detail").style.display="none";
+    document.querySelector(".q10Detail").style.display="none";
+    document.querySelector(".q11Detail").style.display="none";
+    document.querySelector(".q12Detail").style.display="none";
+    document.querySelector(".q13Detail").style.display="none";
+    document.querySelector(".q14Detail").style.display="none";
+    document.querySelector(".whyDetail").style.display="none";
+    document.querySelector(".text1Detail").style.display="none";
+    document.querySelector(".text2Detail").style.display="none";
+    document.querySelector(".text3Detail").style.display="none";
+    document.querySelector(".text4Detail").style.display="none";
+    document.querySelector(".text5Detail").style.display="none";
+}
+//six
+function itemSelect6(){
+    document.querySelector(".q1Detail").style.display="none";
+    document.querySelector(".q2Detail").style.display="none";
+    document.querySelector(".q3Detail").style.display="none";
+    document.querySelector(".q4Detail").style.display="none";
+    document.querySelector(".q5Detail").style.display="none";
+    document.querySelector(".q6Detail").style.display="none";
+    document.querySelector(".q7Detail").style.display="block";
+    document.querySelector(".q8Detail").style.display="none";
+    document.querySelector(".q9Detail").style.display="none";
+    document.querySelector(".q10Detail").style.display="none";
+    document.querySelector(".q11Detail").style.display="none";
+    document.querySelector(".q12Detail").style.display="none";
+    document.querySelector(".q13Detail").style.display="none";
+    document.querySelector(".q14Detail").style.display="none";
+    document.querySelector(".whyDetail").style.display="none";
+    document.querySelector(".text1Detail").style.display="none";
+    document.querySelector(".text2Detail").style.display="none";
+    document.querySelector(".text3Detail").style.display="none";
+    document.querySelector(".text4Detail").style.display="none";
+    document.querySelector(".text5Detail").style.display="none";
+}
+//seven
+function itemSelect7(){
+    document.querySelector(".q1Detail").style.display="none";
+    document.querySelector(".q2Detail").style.display="none";
+    document.querySelector(".q3Detail").style.display="none";
+    document.querySelector(".q4Detail").style.display="none";
+    document.querySelector(".q5Detail").style.display="none";
+    document.querySelector(".q6Detail").style.display="none";
+    document.querySelector(".q7Detail").style.display="none";
+    document.querySelector(".q8Detail").style.display="block";
+    document.querySelector(".q9Detail").style.display="none";
+    document.querySelector(".q10Detail").style.display="none";
+    document.querySelector(".q11Detail").style.display="none";
+    document.querySelector(".q12Detail").style.display="none";
+    document.querySelector(".q13Detail").style.display="none";
+    document.querySelector(".q14Detail").style.display="none";
+    document.querySelector(".whyDetail").style.display="none";
+    document.querySelector(".text1Detail").style.display="none";
+    document.querySelector(".text2Detail").style.display="none";
+    document.querySelector(".text3Detail").style.display="none";
+    document.querySelector(".text4Detail").style.display="none";
+    document.querySelector(".text5Detail").style.display="none";
+}
+//eight
+function itemSelect8(){
+    document.querySelector(".q1Detail").style.display="none";
+    document.querySelector(".q2Detail").style.display="none";
+    document.querySelector(".q3Detail").style.display="none";
+    document.querySelector(".q4Detail").style.display="none";
+    document.querySelector(".q5Detail").style.display="none";
+    document.querySelector(".q6Detail").style.display="none";
+    document.querySelector(".q7Detail").style.display="none";
+    document.querySelector(".q8Detail").style.display="none";
+    document.querySelector(".q9Detail").style.display="block";
+    document.querySelector(".q10Detail").style.display="none";
+    document.querySelector(".q11Detail").style.display="none";
+    document.querySelector(".q12Detail").style.display="none";
+    document.querySelector(".q13Detail").style.display="none";
+    document.querySelector(".q14Detail").style.display="none";
+    document.querySelector(".whyDetail").style.display="none";
+    document.querySelector(".text1Detail").style.display="none";
+    document.querySelector(".text2Detail").style.display="none";
+    document.querySelector(".text3Detail").style.display="none";
+    document.querySelector(".text4Detail").style.display="none";
+    document.querySelector(".text5Detail").style.display="none";
+}
+//nine 
+function itemSelect9(){
+    document.querySelector(".q1Detail").style.display="none";
+    document.querySelector(".q2Detail").style.display="none";
+    document.querySelector(".q3Detail").style.display="none";
+    document.querySelector(".q4Detail").style.display="none";
+    document.querySelector(".q5Detail").style.display="none";
+    document.querySelector(".q6Detail").style.display="none";
+    document.querySelector(".q7Detail").style.display="none";
+    document.querySelector(".q8Detail").style.display="none";
+    document.querySelector(".q9Detail").style.display="none";
+    document.querySelector(".q10Detail").style.display="block";
+    document.querySelector(".q11Detail").style.display="none";
+    document.querySelector(".q12Detail").style.display="none";
+    document.querySelector(".q13Detail").style.display="none";
+    document.querySelector(".q14Detail").style.display="none";
+    document.querySelector(".whyDetail").style.display="none";
+    document.querySelector(".text1Detail").style.display="none";
+    document.querySelector(".text2Detail").style.display="none";
+    document.querySelector(".text3Detail").style.display="none";
+    document.querySelector(".text4Detail").style.display="none";
+    document.querySelector(".text5Detail").style.display="none";
+}
+
+//ten
+function itemSelect10(){
+    document.querySelector(".q1Detail").style.display="none";
+    document.querySelector(".q2Detail").style.display="none";
+    document.querySelector(".q3Detail").style.display="none";
+    document.querySelector(".q4Detail").style.display="none";
+    document.querySelector(".q5Detail").style.display="none";
+    document.querySelector(".q6Detail").style.display="none";
+    document.querySelector(".q7Detail").style.display="none";
+    document.querySelector(".q8Detail").style.display="none";
+    document.querySelector(".q9Detail").style.display="none";
+    document.querySelector(".q10Detail").style.display="none";
+    document.querySelector(".q11Detail").style.display="block";
+    document.querySelector(".q12Detail").style.display="none";
+    document.querySelector(".q13Detail").style.display="none";
+    document.querySelector(".q14Detail").style.display="none";
+    document.querySelector(".whyDetail").style.display="none";
+    document.querySelector(".text1Detail").style.display="none";
+    document.querySelector(".text2Detail").style.display="none";
+    document.querySelector(".text3Detail").style.display="none";
+    document.querySelector(".text4Detail").style.display="none";
+    document.querySelector(".text5Detail").style.display="none";
+}
+
+//eleven
+function itemSelect11(){
+    document.querySelector(".q1Detail").style.display="none";
+    document.querySelector(".q2Detail").style.display="none";
+    document.querySelector(".q3Detail").style.display="none";
+    document.querySelector(".q4Detail").style.display="none";
+    document.querySelector(".q5Detail").style.display="none";
+    document.querySelector(".q6Detail").style.display="none";
+    document.querySelector(".q7Detail").style.display="none";
+    document.querySelector(".q8Detail").style.display="none";
+    document.querySelector(".q9Detail").style.display="none";
+    document.querySelector(".q10Detail").style.display="none";
+    document.querySelector(".q11Detail").style.display="none";
+    document.querySelector(".q12Detail").style.display="block";
+    document.querySelector(".q13Detail").style.display="none";
+    document.querySelector(".q14Detail").style.display="none";
+    document.querySelector(".whyDetail").style.display="none";
+    document.querySelector(".text1Detail").style.display="none";
+    document.querySelector(".text2Detail").style.display="none";
+    document.querySelector(".text3Detail").style.display="none";
+    document.querySelector(".text4Detail").style.display="none";
+    document.querySelector(".text5Detail").style.display="none";
+}
+
+//twelve
+function itemSelect12(){
+    document.querySelector(".q1Detail").style.display="none";
+    document.querySelector(".q2Detail").style.display="none";
+    document.querySelector(".q3Detail").style.display="none";
+    document.querySelector(".q4Detail").style.display="none";
+    document.querySelector(".q5Detail").style.display="none";
+    document.querySelector(".q6Detail").style.display="none";
+    document.querySelector(".q7Detail").style.display="none";
+    document.querySelector(".q8Detail").style.display="none";
+    document.querySelector(".q9Detail").style.display="none";
+    document.querySelector(".q10Detail").style.display="none";
+    document.querySelector(".q11Detail").style.display="none";
+    document.querySelector(".q12Detail").style.display="none";
+    document.querySelector(".q13Detail").style.display="block";
+    document.querySelector(".q14Detail").style.display="none";
+    document.querySelector(".whyDetail").style.display="none";
+    document.querySelector(".text1Detail").style.display="none";
+    document.querySelector(".text2Detail").style.display="none";
+    document.querySelector(".text3Detail").style.display="none";
+    document.querySelector(".text4Detail").style.display="none";
+    document.querySelector(".text5Detail").style.display="none";
+}
+
+//thirteen
+function itemSelect13(){
+    document.querySelector(".q1Detail").style.display="none";
+    document.querySelector(".q2Detail").style.display="none";
+    document.querySelector(".q3Detail").style.display="none";
+    document.querySelector(".q4Detail").style.display="none";
+    document.querySelector(".q5Detail").style.display="none";
+    document.querySelector(".q6Detail").style.display="none";
+    document.querySelector(".q7Detail").style.display="none";
+    document.querySelector(".q8Detail").style.display="none";
+    document.querySelector(".q9Detail").style.display="none";
+    document.querySelector(".q10Detail").style.display="none";
+    document.querySelector(".q11Detail").style.display="none";
+    document.querySelector(".q12Detail").style.display="none";
+    document.querySelector(".q13Detail").style.display="none";
+    document.querySelector(".q14Detail").style.display="block";
+    document.querySelector(".whyDetail").style.display="none";
+    document.querySelector(".text1Detail").style.display="none";
+    document.querySelector(".text2Detail").style.display="none";
+    document.querySelector(".text3Detail").style.display="none";
+    document.querySelector(".text4Detail").style.display="none";
+    document.querySelector(".text5Detail").style.display="none";
+}
+
+//fourteen
+function itemSelect14(){
+    document.querySelector(".q1Detail").style.display="none";
+    document.querySelector(".q2Detail").style.display="none";
+    document.querySelector(".q3Detail").style.display="none";
+    document.querySelector(".q4Detail").style.display="none";
+    document.querySelector(".q5Detail").style.display="none";
+    document.querySelector(".q6Detail").style.display="none";
+    document.querySelector(".q7Detail").style.display="none";
+    document.querySelector(".q8Detail").style.display="none";
+    document.querySelector(".q9Detail").style.display="none";
+    document.querySelector(".q10Detail").style.display="none";
+    document.querySelector(".q11Detail").style.display="none";
+    document.querySelector(".q12Detail").style.display="none";
+    document.querySelector(".q13Detail").style.display="none";
+    document.querySelector(".q14Detail").style.display="none";
+    document.querySelector(".whyDetail").style.display="block";
+    document.querySelector(".text1Detail").style.display="none";
+    document.querySelector(".text2Detail").style.display="none";
+    document.querySelector(".text3Detail").style.display="none";
+    document.querySelector(".text4Detail").style.display="none";
+    document.querySelector(".text5Detail").style.display="none";
+}
+
+//start of text
+function itemSelectWhy(){
+    document.querySelector(".q1Detail").style.display="none";
+    document.querySelector(".q2Detail").style.display="none";
+    document.querySelector(".q3Detail").style.display="none";
+    document.querySelector(".q4Detail").style.display="none";
+    document.querySelector(".q5Detail").style.display="none";
+    document.querySelector(".q6Detail").style.display="none";
+    document.querySelector(".q7Detail").style.display="none";
+    document.querySelector(".q8Detail").style.display="none";
+    document.querySelector(".q9Detail").style.display="none";
+    document.querySelector(".q10Detail").style.display="none";
+    document.querySelector(".q11Detail").style.display="none";
+    document.querySelector(".q12Detail").style.display="none";
+    document.querySelector(".q13Detail").style.display="none";
+    document.querySelector(".q14Detail").style.display="none";
+    document.querySelector(".whyDetail").style.display="none";
+    document.querySelector(".text1Detail").style.display="block";
+    document.querySelector(".text2Detail").style.display="none";
+    document.querySelector(".text3Detail").style.display="none";
+    document.querySelector(".text4Detail").style.display="none";
+    document.querySelector(".text5Detail").style.display="none";
+}
+
+//text1
+function itemSelectText1(){
+    document.querySelector(".q1Detail").style.display="none";
+    document.querySelector(".q2Detail").style.display="none";
+    document.querySelector(".q3Detail").style.display="none";
+    document.querySelector(".q4Detail").style.display="none";
+    document.querySelector(".q5Detail").style.display="none";
+    document.querySelector(".q6Detail").style.display="none";
+    document.querySelector(".q7Detail").style.display="none";
+    document.querySelector(".q8Detail").style.display="none";
+    document.querySelector(".q9Detail").style.display="none";
+    document.querySelector(".q10Detail").style.display="none";
+    document.querySelector(".q11Detail").style.display="none";
+    document.querySelector(".q12Detail").style.display="none";
+    document.querySelector(".q13Detail").style.display="none";
+    document.querySelector(".q14Detail").style.display="none";
+    document.querySelector(".whyDetail").style.display="none";
+    document.querySelector(".text1Detail").style.display="none";
+    document.querySelector(".text2Detail").style.display="block";
+    document.querySelector(".text3Detail").style.display="none";
+    document.querySelector(".text4Detail").style.display="none";
+    document.querySelector(".text5Detail").style.display="none";
+}
+
+//text2
+function itemSelectText2(){
+    document.querySelector(".q1Detail").style.display="none";
+    document.querySelector(".q2Detail").style.display="none";
+    document.querySelector(".q3Detail").style.display="none";
+    document.querySelector(".q4Detail").style.display="none";
+    document.querySelector(".q5Detail").style.display="none";
+    document.querySelector(".q6Detail").style.display="none";
+    document.querySelector(".q7Detail").style.display="none";
+    document.querySelector(".q8Detail").style.display="none";
+    document.querySelector(".q9Detail").style.display="none";
+    document.querySelector(".q10Detail").style.display="none";
+    document.querySelector(".q11Detail").style.display="none";
+    document.querySelector(".q12Detail").style.display="none";
+    document.querySelector(".q13Detail").style.display="none";
+    document.querySelector(".q14Detail").style.display="none";
+    document.querySelector(".whyDetail").style.display="none";
+    document.querySelector(".text1Detail").style.display="none";
+    document.querySelector(".text2Detail").style.display="none";
+    document.querySelector(".text3Detail").style.display="block";
+    document.querySelector(".text4Detail").style.display="none";
+    document.querySelector(".text5Detail").style.display="none";
+}
+
+//text3
+function itemSelectText3(){
+    document.querySelector(".q1Detail").style.display="none";
+    document.querySelector(".q2Detail").style.display="none";
+    document.querySelector(".q3Detail").style.display="none";
+    document.querySelector(".q4Detail").style.display="none";
+    document.querySelector(".q5Detail").style.display="none";
+    document.querySelector(".q6Detail").style.display="none";
+    document.querySelector(".q7Detail").style.display="none";
+    document.querySelector(".q8Detail").style.display="none";
+    document.querySelector(".q9Detail").style.display="none";
+    document.querySelector(".q10Detail").style.display="none";
+    document.querySelector(".q11Detail").style.display="none";
+    document.querySelector(".q12Detail").style.display="none";
+    document.querySelector(".q13Detail").style.display="none";
+    document.querySelector(".q14Detail").style.display="none";
+    document.querySelector(".whyDetail").style.display="none";
+    document.querySelector(".text1Detail").style.display="none";
+    document.querySelector(".text2Detail").style.display="none";
+    document.querySelector(".text3Detail").style.display="none";
+    document.querySelector(".text4Detail").style.display="block";
+    document.querySelector(".text5Detail").style.display="none";
+}
+
+//text4
+function itemSelectText4(){
+    document.querySelector(".q1Detail").style.display="none";
+    document.querySelector(".q2Detail").style.display="none";
+    document.querySelector(".q3Detail").style.display="none";
+    document.querySelector(".q4Detail").style.display="none";
+    document.querySelector(".q5Detail").style.display="none";
+    document.querySelector(".q6Detail").style.display="none";
+    document.querySelector(".q7Detail").style.display="none";
+    document.querySelector(".q8Detail").style.display="none";
+    document.querySelector(".q9Detail").style.display="none";
+    document.querySelector(".q10Detail").style.display="none";
+    document.querySelector(".q11Detail").style.display="none";
+    document.querySelector(".q12Detail").style.display="none";
+    document.querySelector(".q13Detail").style.display="none";
+    document.querySelector(".q14Detail").style.display="none";
+    document.querySelector(".whyDetail").style.display="none";
+    document.querySelector(".text1Detail").style.display="none";
+    document.querySelector(".text2Detail").style.display="none";
+    document.querySelector(".text3Detail").style.display="none";
+    document.querySelector(".text4Detail").style.display="none";
+    document.querySelector(".text5Detail").style.display="block";
+}
